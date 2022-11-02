@@ -6,14 +6,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
-### Wireframes
+### [Wireframes](https://app.moqups.com/pSA2M97zXdl1qxcmm1MYWX6WcojX5FKd/view/page/ad64222d5)
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
 
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-### Project Repo Link
+### [Project Repo Link](https://github.com/jaydubbs44/job-match)
 
-Include a link to your project on GitHub.
+
