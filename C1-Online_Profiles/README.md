@@ -9,7 +9,7 @@ For this assignment you will need to upload your resume and provide links to you
 ### [Will Christen's GitHub Profile](https://github.com/jaydubbs44)
 
  
-### [Will Christen's LinkedIn](www.linkedin.com/in/will-christen)
+### [Will Christen's LinkedIn](https://www.linkedin.com/in/will-christen-40852a131)
 
 ### [Resume](https://docs.google.com/document/d/12lP1ptTGeyVVpTRAJoa_JM6D3wYE2-OUOvTNG5xNUgw/edit#heading=h.33rqveldlls)
 Will be shared with editing rights with my mentor, Orin.
