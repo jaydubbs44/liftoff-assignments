@@ -6,4 +6,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ## Submission Instructions
 
-### [Project Repository](https://github.com/jaydubbs44/job-match) 
+### [JobMatch Project Repository](https://github.com/jaydubbs44/job-match) 
